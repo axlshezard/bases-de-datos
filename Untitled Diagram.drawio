@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-05T13:44:37.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="SH8nLLqAK64D3nv1CDON" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-05T13:58:25.230Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="RZV4zkFQ1dk2CPI2N-_S" version="21.5.2" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="5747" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4403" dy="1595.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -538,6 +538,9 @@
               <mxPoint x="-1370" y="600" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uG2rvb8J-fQGpqhvAo54-141" value="Taller: BASE DE DATOS&lt;br&gt;&amp;nbsp;número de la práctica: 5 GESTORES DE BASES DE DATOS&lt;br&gt;&amp;nbsp;nombre completo: JUAN CARLOS GARCÍA SOLÍS&lt;br&gt;&amp;nbsp;folio:6016LN091&lt;br&gt;&amp;nbsp;fecha:05/07/23" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-20" width="700" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
