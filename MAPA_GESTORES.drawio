@@ -1,0 +1,548 @@
+<mxfile host="app.diagrams.net" modified="2023-07-05T13:59:29.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="BrP8c7hYKkCcfWmjgPSV" version="21.5.2" type="github">
+  <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
+    <mxGraphModel dx="4627" dy="1684.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="123" value="" style="fillColor=#AE4132;strokeColor=none;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="747" y="175.50000000000003" width="210" height="99.99999999999994" as="geometry" />
+        </mxCell>
+        <mxCell id="122" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="97" y="325.5" width="1470" height="99.99999999999994" as="geometry" />
+        </mxCell>
+        <mxCell id="121" value="" style="fillColor=#F2931E;strokeColor=none;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="1697" y="695.5" width="150" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="119" value="" style="fillColor=#F2931E;strokeColor=none;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="757" y="705.5" width="150" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="118" value="" style="fillColor=#F2931E;strokeColor=none;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="227.00000000000009" y="445.5000000000002" width="149.99999999999991" height="439.9999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="115" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="1207" y="724.5" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="114" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="756.9999999999999" y="985.5000000000001" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="113" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="407.00000000000006" y="715.5000000000001" width="329.99999999999994" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="112" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="226.99999999999997" y="895.5" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="111" value="" style="fillColor=#D9EAD3;strokeColor=none" parent="1" vertex="1">
+          <mxGeometry x="47" y="535.5000000000001" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="110" value="" style="fillColor=#12AAB5;strokeColor=none;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="1207" y="445.5000000000001" width="500" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="109" value="" style="fillColor=#12AAB5;strokeColor=none;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="407" y="445.5" width="500" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="108" value="" style="fillColor=#12AAB5;strokeColor=none;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="47.000000000000014" y="445.5" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2" value="GESTORES DE BASES DE DATOS" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="757" y="185.5" width="263" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Oracle" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1361.9999999999998" y="335.5" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="2" target="4" edge="1">
+          <mxGeometry x="337" y="215.5" width="100" height="100" as="geometry">
+            <mxPoint x="337" y="315.5" as="sourcePoint" />
+            <mxPoint x="437" y="215.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="PostgreSQL" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="716.9999999999999" y="335.5" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="MySQL" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="-273" y="320" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="CARACTERISTICAS" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="-2050" y="371" width="210" height="54.5" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value=" MySQL es un SGBD relacional de código abierto que &#xa;se destaca por su simplicidad y facilidad de uso. &#xa;" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="-1840" y="515.5" width="390" height="124.5" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="CARACTERISTICAS" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="240" y="415.5" width="167" height="64.5" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="PostgreSQL es un SGBD relacional de código&#xa; abierto y uno de los más avanzados disponibles. " style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="97" y="515.5" width="333" height="74.5" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="Ofrece una amplia gama de características&#xa;y capacidades,incluyendo soporte&#xa; para consultascomplejas" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="100" y="610" width="330" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value=" transacciones ACID, integridad &#xa;referencial y replicación.&#xa;&#xa;" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="110" y="720" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="VENTAJAS" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="592" y="455.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="Capacidad de manejar grandes&#xa; volúmenes de datos y cargas&#xa; de trabajo intensivas." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="441" y="525.5" width="299" height="104.5" as="geometry" />
+        </mxCell>
+        <mxCell id="31" value="Soporte completo para transacciones &#xa;ACID y consultas complejas." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="440" y="650" width="290" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="32" value="Extensibilidad y flexibilidad a través&#xa; de funciones y proce&#xa;dimientos almacenados." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="440" y="748.5" width="290" height="81.5" as="geometry" />
+        </mxCell>
+        <mxCell id="33" value="DESVENTAJAS" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="870" y="445.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="34" value="Configuración inicial más &#xa;compleja en comparación con MySQL." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="820" y="525.5" width="330" height="64.5" as="geometry" />
+        </mxCell>
+        <mxCell id="35" value="Requiere más recursos de hardware&#xa; y memoria  en comparación con otros SGBD." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="823.5" y="635.5" width="326.5" height="74.5" as="geometry" />
+        </mxCell>
+        <mxCell id="36" value="Menor cantidad de herramientas  y recursos &#xa;disponibles en comparación con sistemas&#xa; más populares como MySQL o Oracle." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="830" y="730" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="38" value="Fuerte enfoque &#xa;en la integridad de los datos." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="377" y="865.5" width="263" height="74.5" as="geometry" />
+        </mxCell>
+        <mxCell id="39" value="Data Collection" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="767" y="995.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="44" value="CARACTERISTICAS" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1030" y="440" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="45" value="SGBD relacional de propósito&#xa; general  que ha sido líder&#xa; en el mercado durante mucho&#xa; tiempo" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1190" y="552.75" width="220" height="114.5" as="geometry" />
+        </mxCell>
+        <mxCell id="46" value="Ofrece una amplia gama&#xa; de características&#xa;, incluyendo soporte&#xa; para transacciones ACID" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1220" y="684.5" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="47" value=" replicación, particionamiento&#xa;, clustering y capacidades&#xa; avanzadas de seguridad." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1200" y="875.5" width="210" height="119.5" as="geometry" />
+        </mxCell>
+        <mxCell id="48" value="VENTAJAS" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1437" y="465.50000000000006" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="49" value="Altamente escalable y capaz&#xa; de manejar grandes volúmenes&#xa; de datos y cargas &#xa;de trabajo empresariales." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1670" y="535.5" width="238" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="50" value="Funcionalidades avanzadas&#xa; de seguridad y administración&#xa;de usuarios." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1680" y="650" width="238" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZAulSTvLyHVvP8z1Ui4Z-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="51" target="48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="51" value="Amplia gama de herramientas&#xa; y recursos disponibles." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1664" y="860.25" width="270" height="85.25" as="geometry" />
+        </mxCell>
+        <mxCell id="52" value="DESVENTAJAS" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1950" y="455.50000000000006" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="53" value="Licenciamiento y costo asociado más &#xa;elevadoen comparación con otras&#xa; opciones de SGBD." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="2020" y="545.5" width="293" height="104.5" as="geometry" />
+        </mxCell>
+        <mxCell id="54" value="Requiere más recursos de hardware&#xa; en comparación con otros SGBD." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="2040" y="748.5" width="280" height="71.5" as="geometry" />
+        </mxCell>
+        <mxCell id="55" value="Curva de aprendizaje más pronunciada&#xa; debido a su complejidad." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="2040" y="675.5" width="290" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="59" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="2" target="12" edge="1">
+          <mxGeometry x="347" y="225.5" width="100" height="100" as="geometry">
+            <mxPoint x="861.9999999999999" y="275.5" as="sourcePoint" />
+            <mxPoint x="1466.9999999999998" y="345.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="61" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="2" target="13" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="13" target="14" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" parent="1" source="25" target="26" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="397" y="535.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" parent="1" source="25" target="27" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="570" />
+              <mxPoint x="397" y="575.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="72" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" parent="1" source="25" target="28" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="560" />
+              <mxPoint x="397" y="615.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="73" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" parent="1" source="29" target="30" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="520" />
+              <mxPoint x="567" y="535.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="74" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" parent="1" source="29" target="31" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="560" />
+              <mxPoint x="567" y="575.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="75" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" parent="1" source="29" target="32" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="560" />
+              <mxPoint x="567" y="615.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="76" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" parent="1" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="870" y="480" as="sourcePoint" />
+            <mxPoint x="820" y="562.75" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="800" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="77" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" parent="1" source="33" target="35" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="800" y="530" />
+              <mxPoint x="747" y="575.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="78" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" parent="1" source="33" target="36" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="800" y="510" />
+              <mxPoint x="747" y="625.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="84" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" parent="1" source="44" target="45" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1170" y="510" />
+              <mxPoint x="1197" y="545.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" parent="1" target="46" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="1130" y="480" as="sourcePoint" />
+            <mxPoint x="1167" y="645.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1167" y="585.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="86" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" parent="1" source="44" target="47" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1170" y="600" />
+              <mxPoint x="1197" y="625.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="87" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" parent="1" source="48" target="49" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1367" y="535.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="88" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" parent="1" source="48" target="50" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1520" y="620" />
+              <mxPoint x="1367" y="595.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="89" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" parent="1" source="48" target="51" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1520" y="680" />
+              <mxPoint x="1367" y="625.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" parent="1" source="52" target="53" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1950" y="598" />
+              <mxPoint x="1660" y="540" />
+              <mxPoint x="1547" y="535.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="91" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" parent="1" source="52" target="54" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1950" y="630" />
+              <mxPoint x="1660" y="630" />
+              <mxPoint x="1547" y="575.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" parent="1" source="52" target="55" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1950" y="590" />
+              <mxPoint x="1547" y="625.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="95" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" parent="1" source="52" target="54" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="1660" y="995.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1950" y="650" />
+              <mxPoint x="1660" y="720" />
+              <mxPoint x="1547" y="765.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="100" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="12" target="25" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="101" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="12" target="29" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="102" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="12" target="33" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="104" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="4" target="48" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="105" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="4" target="44" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="106" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="4" target="52" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="107" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;strokeWidth=2" parent="1" source="14" target="15" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1550" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZAulSTvLyHVvP8z1Ui4Z-125" value="Soporte completo para transacciones&#xa; ACIDy consultas complejas." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1670" y="748.5" width="270" height="51.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GDd-32Y99PRji6t8PtKX-129" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" parent="1" source="29" target="38" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="526" y="430.5" as="sourcePoint" />
+            <mxPoint x="470" y="870.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="580" />
+              <mxPoint x="571" y="720.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GDd-32Y99PRji6t8PtKX-130" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GDd-32Y99PRji6t8PtKX-129" vertex="1" connectable="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1" y="-242" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GDd-32Y99PRji6t8PtKX-132" value="Es conocido por su velocidad y rendimiento, &#xa;especialmente en aplicaciones web. " style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="-1835" y="675.5" width="380" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GDd-32Y99PRji6t8PtKX-133" value="Soporta una amplia gama de plataformas&#xa;y tiene una gran comunidad de&#xa;usuarios y desarrolladores." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="-1840" y="810.5" width="380" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="GDd-32Y99PRji6t8PtKX-134" value="Facilidad de uso y configuración." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="-1310" y="507.25" width="320" height="82.75" as="geometry" />
+        </mxCell>
+        <mxCell id="GDd-32Y99PRji6t8PtKX-135" value="Funcionalidad más básica en comparación con&#xa; otros SGBD más avanzados." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="-670" y="684.5" width="390" height="145.5" as="geometry" />
+        </mxCell>
+        <mxCell id="uG2rvb8J-fQGpqhvAo54-123" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="GDd-32Y99PRji6t8PtKX-133" target="14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-900" y="760" as="sourcePoint" />
+            <mxPoint x="-850" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1940" y="910" />
+              <mxPoint x="-1945" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uG2rvb8J-fQGpqhvAo54-124" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;strokeWidth=2" parent="1" source="14" target="GDd-32Y99PRji6t8PtKX-132" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-1590" y="548.75" as="sourcePoint" />
+            <mxPoint x="-1860" y="699.75" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1560" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uG2rvb8J-fQGpqhvAo54-125" value="VENTAJAS" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="-1200" y="355.5" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uG2rvb8J-fQGpqhvAo54-127" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" target="uG2rvb8J-fQGpqhvAo54-125" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-263" y="402" as="sourcePoint" />
+            <mxPoint x="-1260" y="402" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uG2rvb8J-fQGpqhvAo54-128" value="DESVENTAJAS" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="-560" y="385.5" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uG2rvb8J-fQGpqhvAo54-129" value="Amplia compatibilidad con diferentes sistemas&#xa;operativos y lenguajes de programación." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="-1320" y="744.5" width="340" height="89.5" as="geometry" />
+        </mxCell>
+        <mxCell id="uG2rvb8J-fQGpqhvAo54-130" value="Limitaciones en términos de escalabilidad &#xa;y capacidad de manejar grandes volúmenes de datos." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="-680" y="512.75" width="400" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uG2rvb8J-fQGpqhvAo54-131" value="Alta velocidad y rendimiento, &#xa;especialmente para aplicaciones web." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="-1320" y="617.75" width="340" height="102.25" as="geometry" />
+        </mxCell>
+        <mxCell id="uG2rvb8J-fQGpqhvAo54-132" value="Gran cantidad de documentación &#xa;y comunidad de soporte." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="-1320" y="870" width="340" height="95.5" as="geometry" />
+        </mxCell>
+        <mxCell id="uG2rvb8J-fQGpqhvAo54-133" value="Algunas características y herramientas&#xa;avanzadas requieren licencias comerciales." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="-670" y="865.5" width="400" height="104.5" as="geometry" />
+        </mxCell>
+        <mxCell id="uG2rvb8J-fQGpqhvAo54-134" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="uG2rvb8J-fQGpqhvAo54-128" target="uG2rvb8J-fQGpqhvAo54-130" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-253" y="412" as="sourcePoint" />
+            <mxPoint x="-980" y="412" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-870" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uG2rvb8J-fQGpqhvAo54-135" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="uG2rvb8J-fQGpqhvAo54-128" target="GDd-32Y99PRji6t8PtKX-135" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-550" y="431" as="sourcePoint" />
+            <mxPoint x="-670" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-870" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uG2rvb8J-fQGpqhvAo54-136" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="uG2rvb8J-fQGpqhvAo54-128" target="uG2rvb8J-fQGpqhvAo54-133" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-550" y="431" as="sourcePoint" />
+            <mxPoint x="-660" y="767" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-870" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uG2rvb8J-fQGpqhvAo54-137" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="uG2rvb8J-fQGpqhvAo54-125" target="uG2rvb8J-fQGpqhvAo54-132" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-550" y="431" as="sourcePoint" />
+            <mxPoint x="-660" y="928" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1370" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uG2rvb8J-fQGpqhvAo54-138" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="uG2rvb8J-fQGpqhvAo54-125" target="uG2rvb8J-fQGpqhvAo54-131" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-1190" y="401" as="sourcePoint" />
+            <mxPoint x="-1310" y="928" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1370" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uG2rvb8J-fQGpqhvAo54-139" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="uG2rvb8J-fQGpqhvAo54-125" target="GDd-32Y99PRji6t8PtKX-134" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-1180" y="411" as="sourcePoint" />
+            <mxPoint x="-1300" y="938" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1370" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uG2rvb8J-fQGpqhvAo54-140" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="uG2rvb8J-fQGpqhvAo54-125" target="uG2rvb8J-fQGpqhvAo54-129" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-1170" y="421" as="sourcePoint" />
+            <mxPoint x="-1290" y="948" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1370" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uG2rvb8J-fQGpqhvAo54-141" value="Taller: BASE DE DATOS&lt;br&gt;&amp;nbsp;número de la práctica: 5 GESTORES DE BASES DE DATOS&lt;br&gt;&amp;nbsp;nombre completo: JUAN CARLOS GARCÍA SOLÍS&lt;br&gt;&amp;nbsp;folio:6016LN091&lt;br&gt;&amp;nbsp;fecha:05/07/23" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="-20" width="700" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
